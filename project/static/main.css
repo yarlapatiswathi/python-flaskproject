@@ -1,0 +1,15 @@
+.contentA div.card-body{
+    background-color: rgb(35, 33, 88);
+    color:white;
+}
+
+.contentA a.btn-primary{
+    background-color: orange;
+}
+
+.contentC .carousel-item{
+    width: 70%!important;
+    height: 60%;
+}
+
+
